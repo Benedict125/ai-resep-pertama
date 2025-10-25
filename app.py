@@ -29,7 +29,7 @@ model, le_utama, le_pelengkap, le_hasil = muat_model_dan_data()
 # Tampilan Aplikasi Web
 # -----------------
 st.title("🤖 AI Penebak Resep (Versi 2.0)")
-st.caption("Sekarang sudah tidak error! Dibuat oleh Anda.")
+st.caption("HAI BECCA CANTIK, GIMANA PROJECT AKU??.")
 
 # Tampilkan bahan yang dikenal (opsional tapi bagus)
 if le_utama is not None and le_pelengkap is not None:
