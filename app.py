@@ -28,7 +28,7 @@ model, le_utama, le_pelengkap, le_hasil = muat_model_dan_data()
 # -----------------
 # Tampilan Aplikasi Web
 # -----------------
-st.title("🤖 AI Penebak Resep (Versi 2.0)")
+st.title("🤖 AI untuk Becca (Efek gabisa tidur)")
 st.caption("HAI BECCA CANTIK, GIMANA PROJECT AKU??.")
 
 # Tampilkan bahan yang dikenal (opsional tapi bagus)
